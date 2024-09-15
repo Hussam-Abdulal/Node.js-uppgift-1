@@ -1,0 +1,25 @@
+{
+  "name": "node-js",
+  "version": "1.0.0",
+  "description": "Uppgift-1",
+  "main": "server.mjs",
+  "scripts": {
+    "test": "vitest",
+    "test:ui": "vitest --ui",
+    "start": "node server.mjs",
+    "dev": "nodemon server.mjs"
+  },
+  "author": "Hussam Abdulal",
+  "license": "HA",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "uuid": "^9.0.1"
+  },
+  "devDependencies": {
+    "@vitest/ui": "^1.5.3",
+    "nodemon": "^3.1.0",
+    "vitest": "^1.5.3"
+  }
+}

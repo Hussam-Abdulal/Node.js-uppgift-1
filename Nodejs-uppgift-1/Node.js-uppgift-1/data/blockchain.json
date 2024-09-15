@@ -1,0 +1,20 @@
+{
+  "chain": [
+    {
+      "timestamp": 1726424270122,
+      "blockIndex": 1,
+      "previousBlockHash": "0",
+      "currentBlockHash": "0",
+      "data": [],
+      "difficulty": null
+    },
+    {
+      "timestamp": 1726424272499,
+      "blockIndex": 2,
+      "previousBlockHash": "0",
+      "currentBlockHash": "ce52cf37f2b1b0a754b4995f10796ec093a8d151aabf371eb8d26ebf3f68948b",
+      "data": {},
+      "difficulty": 2
+    }
+  ]
+}
